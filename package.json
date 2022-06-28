@@ -2,7 +2,7 @@
     "name": "gericht-restaurant",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Gericht.github.io",
+    "homepage": "https://tinhau1204.github.io/Gericht.github.io",
     "dependencies": {
         "-": "0.0.1",
         "@testing-library/jest-dom": "^5.16.4",
